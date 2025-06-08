@@ -25,7 +25,6 @@ Welcome to my GitHub profile — where I tinker, build and learn 🚀
 - 📧 Email: contact@pkarabetsos.com
 - Website: https://www.panteliskarabetsos.com
 - 🌐 LinkedIn: [Pantelis Karabetsos](https://www.linkedin.com/in/panteliskarabetsos)
-- 💬 Or just open an issue on one of my repos!
 
 ---
 

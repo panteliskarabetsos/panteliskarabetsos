@@ -23,7 +23,6 @@ Welcome to my GitHub profile — where I tinker, build and learn 🚀
 
 ## 📫 How to reach me
 - 📧 Email: contact@pkarabetsos.com
-- Website: https://www.panteliskarabetsos.com
 - 🌐 LinkedIn: [Pantelis Karabetsos](https://www.linkedin.com/in/panteliskarabetsos)
 
 ---
